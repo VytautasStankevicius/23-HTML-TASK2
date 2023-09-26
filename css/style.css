@@ -1,0 +1,78 @@
+h1, body {
+    margin:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.padding{
+    max-width: 1000px;
+    margin: auto;
+    width: 80%;
+}
+
+header {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* arba   margin: 0 auto;
+    display: block;
+*/
+
+h1 {
+    letter-spacing: -2px;
+    word-spacing: 10px;
+    margin: 10px 0 30px 0;
+    line-height: 1;
+    font-size: 80px;
+}
+
+.sofa_text{
+    text-align: center;
+    border-top: 5px #ccc double;
+    border-bottom: 5px #ccc double;
+    font-size: 20px;
+}
+.container1{
+    width:100%;
+    margin:auto;
+    text-align: center;
+}
+
+.container2{
+    width:100%;
+    margin:auto;
+    float:left;
+}
+
+main{
+    width:100%
+}
+
+h2{
+    font-size: 30px;
+    font-weight:normal;
+}
+
+article{
+    float: left;
+    width: 23%;
+    margin-left:1%;
+    margin-right:1%;
+}
+
+main .fa-angles-right{
+    color:#ccc;
+}
+
+.fa-solid{
+    font-size:15px;
+}
+
+footer{
+    width:100%;
+    margin-top:50px;
+    text-align: center;
+    float:left;
+    color:#ccc;
+}
